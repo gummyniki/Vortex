@@ -1,6 +1,6 @@
 # OpenGL ImGui Project
 
-This is a simple OpenGL project using [GLFW](https://www.glfw.org/), [GLEW](http://glew.sourceforge.net/), and [Dear ImGui](https://github.com/ocornut/imgui) for GUI rendering. The goal is to provide a minimal, modular, and cross-platform base for OpenGL applications with ImGui support.
+This is a simple OpenGL project using [GLFW](https://www.glfw.org/), [GLAD](https://glad.dav1d.de/), and [Dear ImGui](https://github.com/ocornut/imgui) for GUI rendering. The goal is to provide a minimal, modular, and cross-platform base for OpenGL applications with ImGui support.
 
 ## Features
 
