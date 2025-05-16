@@ -1,0 +1,28 @@
+# CMake build folders
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/Makefile
+/cmake_install.cmake
+
+# Compiled object files and executables
+*.o
+*.obj
+*.exe
+*.out
+
+# Visual Studio Code settings (optional)
+.vscode/
+
+
+# Backup and temp files
+*~
+*.swp
+*.tmp
+
+
+# macOS-specific (if relevant)
+.DS_Store
+
+# Linux core dumps
+core
