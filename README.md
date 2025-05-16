@@ -5,7 +5,7 @@ This is a simple OpenGL project using [GLFW](https://www.glfw.org/), [GLAD](http
 ## Features
 
 - OpenGL window with context created via GLFW
-- GLEW for loading OpenGL extensions
+- GLAD for loading OpenGL extensions
 - ImGui GUI rendered using OpenGL3 + GLFW backend
 - Modular structure (`window.cpp`, etc.)
 - CMake-based build system
@@ -24,7 +24,7 @@ sudo pacman -S glfw glew cmake
 ### Windows
 
 Use a package manager like vcpkg or manually install:
-+ GLEW
++ GLAD
 + GLFW
 + OpenGL (usually comes with drivers)
 
