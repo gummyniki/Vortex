@@ -10,7 +10,7 @@ This is a simple OpenGL project using [GLFW](https://www.glfw.org/), [GLAD](http
 - Modular structure (`window.cpp`, etc.)
 - CMake-based build system
 
-WARNING, currently git is being very annoying and the source files for imgui are not being pushed, so just go to the original imgui website, copy all of the source files and paste them in `third_party/imgui`
+### WARNING, currently git is being very annoying and the source files for imgui are not being pushed, so just go to the original imgui website, copy all of the source files and paste them in `third_party/imgui`
 
 ## Prerequisites
 
